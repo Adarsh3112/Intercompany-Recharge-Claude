@@ -1,4 +1,4 @@
-page 50105 "Posted IC Recharge List"
+page 50205 "Posted IC Recharge List"
 {
     PageType = List;
     SourceTable = "IC Recharge Posted Header";

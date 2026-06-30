@@ -1,4 +1,4 @@
-page 50104 "IC Recharge Subform"
+page 50204 "IC Recharge Subform"
 {
     PageType = ListPart;
     SourceTable = "IC Recharge Line";

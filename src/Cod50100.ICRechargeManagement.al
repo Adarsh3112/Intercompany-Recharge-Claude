@@ -1,4 +1,4 @@
-codeunit 50100 "IC Recharge Management"
+codeunit 50200 "IC Recharge Management"
 {
     procedure ValidateRechargeRequest(var ICRechargeHeader: Record "IC Recharge Header"): Boolean
     var

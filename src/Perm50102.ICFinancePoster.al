@@ -1,4 +1,4 @@
-permissionset 50102 "IC Finance Poster"
+permissionset 50202 "IC Finance Poster"
 {
     Assignable = true;
     Caption = 'IC Finance Poster';

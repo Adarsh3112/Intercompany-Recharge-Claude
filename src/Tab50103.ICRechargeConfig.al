@@ -1,4 +1,4 @@
-table 50103 "IC Recharge Config"
+table 50203 "IC Recharge Config"
 {
     DataClassification = CustomerContent;
     Caption = 'IC Recharge Config';

@@ -1,4 +1,4 @@
-permissionset 50101 "IC Recharge Manager"
+permissionset 50201 "IC Recharge Manager"
 {
     Assignable = true;
     Caption = 'IC Recharge Manager';

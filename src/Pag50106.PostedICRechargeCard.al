@@ -1,4 +1,4 @@
-page 50106 "Posted IC Recharge Card"
+page 50206 "Posted IC Recharge Card"
 {
     PageType = Document;
     SourceTable = "IC Recharge Posted Header";

@@ -1,4 +1,4 @@
-page 50101 "IC Recharge Setup Card"
+page 50201 "IC Recharge Setup Card"
 {
     PageType = Card;
     SourceTable = "IC Recharge Setup";

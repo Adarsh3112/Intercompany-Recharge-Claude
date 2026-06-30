@@ -1,4 +1,4 @@
-table 50104 "IC Recharge Audit Log"
+table 50206 "IC Recharge Audit Log"
 {
     DataClassification = CustomerContent;
     Caption = 'IC Recharge Audit Log';

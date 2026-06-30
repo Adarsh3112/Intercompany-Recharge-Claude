@@ -1,4 +1,4 @@
-page 50109 "IC Recharge Audit Log"
+page 50209 "IC Recharge Audit Log"
 {
     PageType = List;
     SourceTable = "IC Recharge Audit Log";

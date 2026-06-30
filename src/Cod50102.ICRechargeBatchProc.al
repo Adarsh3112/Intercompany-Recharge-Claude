@@ -1,4 +1,4 @@
-codeunit 50102 "IC Recharge Batch Proc"
+codeunit 50202 "IC Recharge Batch Proc"
 {
     TableNo = "IC Recharge Header";
 

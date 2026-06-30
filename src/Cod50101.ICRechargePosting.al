@@ -1,4 +1,4 @@
-codeunit 50101 "IC Recharge Posting"
+codeunit 50201 "IC Recharge Posting"
 {
     TableNo = "IC Recharge Header";
 

@@ -1,4 +1,4 @@
-page 50110 "IC Dimension Mapping"
+page 50210 "IC Dimension Mapping"
 {
     PageType = List;
     SourceTable = "IC Dimension Mapping";

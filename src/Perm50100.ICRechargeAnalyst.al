@@ -1,4 +1,4 @@
-permissionset 50100 "IC Recharge Analyst"
+permissionset 50200 "IC Recharge Analyst"
 {
     Assignable = true;
     Caption = 'IC Recharge Analyst';

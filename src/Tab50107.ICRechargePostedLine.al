@@ -1,4 +1,4 @@
-table 50107 "IC Recharge Posted Line"
+table 50210 "IC Recharge Posted Line"
 {
     DataClassification = CustomerContent;
     Caption = 'IC Recharge Posted Line';

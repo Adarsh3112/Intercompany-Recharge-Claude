@@ -1,4 +1,4 @@
-table 50105 "IC Dimension Mapping"
+table 50207 "IC Dimension Mapping"
 {
     DataClassification = CustomerContent;
     Caption = 'IC Dimension Mapping';

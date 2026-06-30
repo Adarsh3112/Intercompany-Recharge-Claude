@@ -1,4 +1,4 @@
-page 50111 "IC Recharge Monitor"
+page 50211 "IC Recharge Monitor"
 {
     PageType = List;
     SourceTable = "IC Recharge Header";
